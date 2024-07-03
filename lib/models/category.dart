@@ -19,18 +19,18 @@ final List<Category> categoriesList = [
   ),
   Category(
     title: "Sneaker",
-    image: "images/shoes.png",
+    image: "images/pu1.jpg",
   ),
   Category(
-    title: "Women's\nFashion",
-    image: "images/shoes.png",
+    title: "Puma",
+    image: "images/ske2.jpg",
   ),
   Category(
-    title: "Western Shoes",
-    image: "images/shoes.png",
+    title: "Nike",
+    image: "images/ske3.jpg",
   ),
   Category(
-    title: "Men's\nFashion",
-    image: "images/shoes.png",
+    title: "Addidas",
+    image: "images/ske4.jpg",
   ),
 ];

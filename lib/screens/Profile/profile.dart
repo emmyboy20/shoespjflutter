@@ -10,7 +10,7 @@ class Profile extends StatelessWidget {
       body: Stack(
         children: [
           Image.asset(
-            "images/profile3.png",
+            "images/profileS.jpg",
             fit: BoxFit.cover,
             height: size.height,
             width: size.width,
@@ -42,7 +42,7 @@ class Profile extends StatelessWidget {
                                     const CircleAvatar(
                                       radius: 42,
                                       backgroundImage:
-                                          AssetImage("images/profile3.png"),
+                                          AssetImage("images/profileS.jpg"),
                                     ),
                                     Positioned(
                                       bottom: 0,

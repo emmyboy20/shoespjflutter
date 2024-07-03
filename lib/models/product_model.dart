@@ -27,10 +27,10 @@ class Product {
 
 final List<Product> all = [
   Product(
-    title: "Wireless Headphones",
+    title: "Nike",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/all/wireless.png",
+    image: "images/nike8.jpg",
     price: 120,
     seller: "Tariqul isalm",
     colors: [
@@ -38,16 +38,16 @@ final List<Product> all = [
       Colors.blue,
       Colors.orange,
     ],
-    category: "Electronics",
+    category: "Nike",
     review: "(320 Reviews)",
     rate: 4.8,
     quantity: 1,
   ),
   Product(
-    title: "Woman Sweter",
+    title: "Puma",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/all/sweet.png",
+    image: "images/pu7.jpg",
     price: 120,
     seller: "Joy Store",
     colors: [
@@ -55,16 +55,16 @@ final List<Product> all = [
       Colors.deepPurple,
       Colors.pink,
     ],
-    category: "Woman Fashion",
+    category: "Puma",
     review: "(32 Reviews)",
     rate: 4.5,
     quantity: 1,
   ),
   Product(
-    title: "Smart Watch",
+    title: "Addidas",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/all/miband.jpg",
+    image: "images/ske17.jpg",
     price: 55,
     seller: "Ram Das",
     colors: [
@@ -72,16 +72,16 @@ final List<Product> all = [
       Colors.amber,
       Colors.purple,
     ],
-    category: "Electronics",
+    category: "Addidas",
     review: "(20 Reviews)",
     rate: 4.0,
     quantity: 1,
   ),
   Product(
-    title: "Mens Jacket",
+    title: "MWC",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/all/jacket.png",
+    image: "images/ske10.jpg",
     price: 155,
     seller: "Jacket Store",
     colors: [
@@ -89,16 +89,16 @@ final List<Product> all = [
       Colors.orange,
       Colors.green,
     ],
-    category: "Men Fashion",
+    category: "MWC",
     review: "(20 Reviews)",
     rate: 5.0,
     quantity: 1,
   ),
    Product(
-    title: "Watch",
+    title: "Bitis",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/men fashion/watch.png",
+    image: "images/ske2.jpg",
     price: 1000,
     seller: "Jacket Store",
     colors: [
@@ -106,7 +106,7 @@ final List<Product> all = [
       Colors.orange,
       Colors.purple,
     ],
-    category: "MenFashion",
+    category: "Bitis",
     review: "(100 Reviews)",
     rate: 5.0,
     quantity: 1,
@@ -129,10 +129,10 @@ final List<Product> all = [
     quantity: 1,
   ),
   Product(
-    title: "Super Perfume",
+    title: "SoS",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/beauty/perfume.png",
+    image: "images/pu1.jpg",
     price: 155,
     seller: "Love Seller",
     colors: [
@@ -273,10 +273,10 @@ final List<Product> shoes = [
 
 final List<Product> beauty = [
   Product(
-    title: "Face Care Product",
+    title: "Boots",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/beauty/face care.png",
+    image: "images/ske6.jpg",
     price: 1500,
     seller: "Yojana Seller",
     colors: [
@@ -290,10 +290,10 @@ final List<Product> beauty = [
     quantity: 1,
   ),
   Product(
-    title: "Super Perfume",
+    title: "Loafer",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/beauty/perfume.png",
+    image: "images/pu4.jpg",
     price: 155,
     seller: "Love Seller",
     colors: [
@@ -307,10 +307,10 @@ final List<Product> beauty = [
     quantity: 1,
   ),
    Product(
-    title: "Skin-Care Product",
+    title: "Flats",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/beauty/skin-care.png",
+    image: "images/ske15.jpg",
     price: 999,
     seller: "Mr Beast",
     colors: [
@@ -331,7 +331,7 @@ final List<Product> womenFashion = [
     title: " Women Kurta",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/women fashion/kurta.png",
+    image: "images/nike1.jpg",
     price: 299,
     seller: "Sila Store",
     colors: [
@@ -345,10 +345,10 @@ final List<Product> womenFashion = [
     quantity: 1,
   ),
   Product(
-    title: "Mens Jacket",
+    title: "Mule",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/women fashion/lehenga.png",
+    image: "images/pu6.jpg",
     price: 666,
     seller: "My Store",
     colors: [
@@ -362,10 +362,10 @@ final List<Product> womenFashion = [
     quantity: 1,
   ),
   Product(
-    title: "T-Shert",
+    title: "Golden boots",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/women fashion/t-shert.png",
+    image: "images/nike8.jpg",
     price: 155,
     seller: "Love Store",
     colors: [
@@ -379,10 +379,10 @@ final List<Product> womenFashion = [
     quantity: 1,
   ),
   Product(
-    title: "  Pants",
+    title: " Silk Shoes ",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/women fashion/pants.png",
+    image: "images/pu7.jpg",
     price: 155,
     seller: "PK Store",
     colors: [
@@ -399,10 +399,10 @@ final List<Product> womenFashion = [
 final List<Product> jewelry = [
 
 Product(
-    title: "Earrings",
+    title: "Frozen Boots",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/jewelry/earrings.png",
+    image: "images/nike1.jpg",
     price: 3000,
     seller: "Gold Store",
     colors: [
@@ -416,10 +416,10 @@ Product(
     quantity: 1,
   ),
   Product(
-    title: "Jewelry-Box",
+    title: "Jewelry Boots",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/jewelry/jewelry-box.png",
+    image: "images/ske17.jpg",
     price: 300,
     seller: "Love Love",
     colors: [
@@ -433,10 +433,10 @@ Product(
     quantity: 1,
   ),
    Product(
-    title: "Wedding Ring",
+    title: "Wedding Shoes",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/jewelry/wedding ring.png",
+    image: "images/ske11.jpg",
     price: 155,
     seller: "I Am Seller",
     colors: [
@@ -450,10 +450,10 @@ Product(
     quantity: 1,
   ),
    Product(
-    title: "Necklace-Jewellery",
+    title: "Lazy shoes",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/jewelry/necklace-jewellery.png",
+    image: "images/nike8.jpg",
     price: 5000,
     seller: "Jewellery Store",
     colors: [
@@ -470,10 +470,10 @@ Product(
 final List<Product> menFashion = [
   
   Product(
-    title: "Man Jacket",
+    title: "Idol shoes",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/men fashion/man jacket.png",
+    image: "images/nike5.jpg",
     price: 500,
     seller: "Men Store",
     colors: [
@@ -487,10 +487,10 @@ final List<Product> menFashion = [
     quantity: 1,
   ),
    Product(
-    title: "Men Pants",
+    title: "Bitis Hunter",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/men fashion/pants.png",
+    image: "images/pu1.jpg",
     price: 400,
     seller: "My Store",
     colors: [
@@ -504,10 +504,10 @@ final List<Product> menFashion = [
     quantity: 1,
   ),
   Product(
-    title: "Men Shert",
+    title: "Swift Shoes",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/men fashion/shert.png",
+    image: "images/pu2.jpg",
     price: 300,
     seller: "Roman Store",
     colors: [
@@ -521,10 +521,10 @@ final List<Product> menFashion = [
     quantity: 1,
   ),
    Product(
-    title: "T-Shirt",
+    title: "Lovely Shoes",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/men fashion/t-shirt.png",
+    image: "images/pu2.jpg",
     price: 200,
     seller: "Hot Store",
     colors: [
@@ -538,10 +538,10 @@ final List<Product> menFashion = [
     quantity: 1,
   ),
    Product(
-    title: "Watch",
+    title: "Morden shoes",
     description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec massa sapien faucibus et molestie ac feugiat. In massa tempor nec feugiat nisl. Libero id faucibus nisl tincidunt.",
-    image: "images/men fashion/watch.png",
+    image: "images/pu7.jpg",
     price: 1000,
     seller: "Jacket Store",
     colors: [

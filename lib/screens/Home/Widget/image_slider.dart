@@ -29,11 +29,11 @@ class ImageSlider extends StatelessWidget {
                   fit: BoxFit.cover,
                 ),
                 Image.asset(
-                  "images/image1.png",
+                  "images/pu1.jpg",
                   fit: BoxFit.cover,
                 ),
                 Image.asset(
-                  "images/slider3.png",
+                  "images/Nike2.jpg",
                   fit: BoxFit.cover,
                 )
               ],
